@@ -11,6 +11,17 @@
 
 ![ACAM Logo](https://example.com/acam_logo.png) <!-- Replace with the actual logo URL -->
 
+---
+
+## About the Event  
+Welcome to the 6th ACAM Training School! This repository contains materials, schedules, and resources for participants. Join us to explore atmospheric science through expert-led sessions and hands-on projects.
+
+- **When**: 9-10 June 2025  
+- **Where**: Bali, Indonesia  
+<!-- - **Led by**: Dr. Ritesh Gautam, Dr. Piyushkumar Patel   -->
+
+---
+
 ## Overview
 
 The 6th ACAM Training School will take place in 2025, building on the success of previous training schools. The focus of this training school is on using satellite observations and modeling of atmospheric chemistry and aerosols in the Asian monsoon region for research and applications.
