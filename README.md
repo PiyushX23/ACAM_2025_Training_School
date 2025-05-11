@@ -79,3 +79,75 @@ The training school is organized and sponsored by:
 
 For any questions regarding the training school, please contact:
 - [Contact information to be added]
+
+
+
+# 6th ACAM Training School, 9-10 June 2025, Bali, Indonesia
+
+![ACAM Logo](https://example.com/acam_logo.png) <!-- Replace with the actual logo URL -->
+
+Welcome to the official GitHub page for the 6th ACAM Training School, held on 9-10 June 2025 in Bali, Indonesia. This training school aims to enhance skills in atmospheric composition analysis, satellite remote sensing, and data science through lectures, hands-on tutorials, and collaborative projects.
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Program Schedule](#program-schedule)
+3. [Speakers and Materials](#speakers-and-materials)
+4. [Shared Resources](#shared-resources)
+5. [Setup Instructions](#setup-instructions)
+6. [Contact and Support](#contact-and-support)
+
+---
+
+## Overview
+- **Dates**: 9-10 June 2025
+- **Location**: Bali, Indonesia
+- **Organizers**: Dr. Ritesh Gautam (EDF, USA), Dr. Puji Lestari (ITB, Indonesia), Dr. Piyushkumar Patel (SRON, Netherlands)
+- **Focus**: Aerosol, cloud, and methane analysis using satellite data, with practical exercises and project work.
+
+Download the detailed [Program Schedule (PDF)](./Program_Details/ACAM_2025_Program_Schedule.pdf) for session timings and additional information.
+
+---
+
+## Program Schedule
+
+### Monday, 9 June 2025
+| Time          | Speaker                        | Topic                                              | Materials                                                                 |
+|---------------|--------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
+| 09:00 - 09:15 | Dr. Ritesh Gautam, Dr. Puji Lestari, Dr. Piyushkumar Patel | Welcome & Logistics                  | -                                                                         |
+| 09:15 - 10:00 | Dr. James Crawford            | Overview of ACAM & ASIA-AQ                        | [Repository](https://github.com/JamesCrawford/ACAM_ASIA-AQ)              |
+| 10:00 - 11:00 | Dr. Piyushkumar Patel         | Aerosol-Cloud Satellite Remote Sensing            | [Repository](https://github.com/PiyushPatel/Aerosol_Cloud_Remote_Sensing) |
+| 11:30 - 12:30 | Dr. Piyushkumar Patel         | SPEXone Satellite Aerosol Data Analysis           | [Repository](https://github.com/PiyushPatel/SPEXone_Analysis)            |
+| 14:00 - 16:00 | Dr. Cathy Clerbaux            | Satellite Observations of Atmospheric Composition | [Repository](https://github.com/CathyClerbaux/IASI_Satellite_Data)       |
+| 16:30 - 17:30 | All Instructors               | Introduction of Project Work                      | [Guidelines](https://github.com/PiyushPatel/ACAM_2025_Project_Work)      |
+
+### Tuesday, 10 June 2025
+| Time          | Speaker                        | Topic                                              | Materials                                                                 |
+|---------------|--------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
+| 09:00 - 10:45 | Dr. Naveen Chandra            | Inverse Modeling for Methane Emission Quantification | [Repository](https://github.com/NaveenChandra/Methane_Analysis)         |
+| 11:00 - 12:45 | Dr. Jonathan Wright           | Composition-Circulation Coupling in the Asian Monsoon | [Repository](https://github.com/JonathanWright/Composition_Circulation) |
+| 14:00 - 16:00 | All Instructors               | Project Work                                       | [Datasets](https://github.com/PiyushPatel/ACAM_2025_Project_Work/tree/main/datasets) |
+| 16:15 - 17:30 | All Presenters                | Presentations of Projects                          | -                                                                         |
+
+---
+
+## Speakers and Materials
+Each speaker hosts their lecture notes, tutorials, and scripts in their own GitHub repositories. Access their materials by clicking the links in the schedule above.
+
+Additionally, I (Dr. Piyushkumar Patel) maintain a centralized repository for training school materials, including project guidelines, datasets, and supplementary resources. Visit it here:  
+[**ACAM 2025 Training School Materials Repository**](https://github.com/PiyushPatel/ACAM_2025_Training_School_Materials)
+
+---
+
+## Shared Resources
+Resources used across multiple sessions are available in this repository:
+- **Datasets**: [Shared Datasets](./Shared_Resources/datasets)
+- **Scripts**: [Shared Scripts](./Shared_Resources/scripts)
+
+For larger files (e.g., high-resolution datasets), check the [ACAM 2025 Google Drive](https://drive.google.com/[folder-link]) (link to be updated).
+
+---
+
+## Setup Instructions
+To use the materials, ensure you have Python installed and install the following libraries:
+```bash
+pip install numpy pandas xarray matplotlib netCDF4
