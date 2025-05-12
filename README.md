@@ -46,8 +46,8 @@ The training aims to enable participants to be aware of satellite- and model-bas
 ### Monday, 9 June 2025
 | Time          | Speaker                        | Topic                                              | Materials                                                                 |
 |---------------|--------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
-| 09:00 - 09:15 | Dr. Ritesh Gautam, Dr. Puji Lestari, Dr. Piyushkumar Patel | Welcome & Logistics                  | 
-
+| 09:00 - 09:15 | Dr. Ritesh Gautam, Dr. Puji Lestari, Dr. Piyushkumar Patel | Welcome & Logistics                  | -                                                                         |
+| 09:15 - 10:00 | Dr. James Crawford            | Overview of ACAM & ASIA-AQ                        | [Repository](https://github.com/JamesCrawford/ACAM_ASIA-AQ)              |
 
 The training school consists of two parts:
 - Preparation event (online)
