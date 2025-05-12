@@ -11,20 +11,25 @@
 
 ![ACAM Logo](https://example.com/acam_logo.png) <!-- Replace with the actual logo URL -->
 
+
+## Table of Contents
+1. [About the Event](#About-the-Event)
+2. [Program Schedule](#program-schedule)
+3. [Speakers and Materials](#speakers-and-materials)
+4. [Shared Resources](#shared-resources)
+5. [Setup Instructions](#setup-instructions)
+6. [Contact and Support](#contact-and-support)
+
 ---
 
 ## About the Event  
-Welcome to the 6th ACAM Training School! This repository contains materials, schedules, and resources for participants. Join us to explore atmospheric science through expert-led sessions and hands-on projects.
+Welcome to the 6th ACAM Training School! Building on the success of previous training schools, this training school aims to enhance skills in atmospheric composition analysis, satellite remote sensing, modeling of atmospheric chemistry and data science through lectures and hands-on tutorials. This repository contains materials, schedules, and resources for participants. Join us to explore atmospheric science through expert-led sessions and hands-on projects.
 
 - **When**: 9-10 June 2025  
-- **Where**: Bali, Indonesia  
+- **Where**: Bali, Indonesia 
+- **Organizers**: Dr. Ritesh Gautam (EDF, USA), Dr. Puji Lestari (ITB, Indonesia), Dr. Piyushkumar Patel (SRON, Netherlands)
+- **Focus**: Aerosol, cloud, and methane analysis using satellite data, with practical exercises and project work. 
 <!-- - **Led by**: Dr. Ritesh Gautam, Dr. Piyushkumar Patel   -->
-
----
-
-## Overview
-
-The 6th ACAM Training School will take place in 2025, building on the success of previous training schools. The focus of this training school is on using satellite observations and modeling of atmospheric chemistry and aerosols in the Asian monsoon region for research and applications.
 
 ### Learning Objectives
 
@@ -34,15 +39,15 @@ The training aims to enable participants to be aware of satellite- and model-bas
 - To use standard Python packages to handle, process, and visualize the data
 - To identify advantages and limitations of each data product introduced
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Program Schedule](#program-schedule)
-3. [Speakers and Materials](#speakers-and-materials)
-4. [Shared Resources](#shared-resources)
-5. [Setup Instructions](#setup-instructions)
-6. [Contact and Support](#contact-and-support)
+---
 
 ## Program of the Training School
+
+### Monday, 9 June 2025
+| Time          | Speaker                        | Topic                                              | Materials                                                                 |
+|---------------|--------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
+| 09:00 - 09:15 | Dr. Ritesh Gautam, Dr. Puji Lestari, Dr. Piyushkumar Patel | Welcome & Logistics                  | 
+
 
 The training school consists of two parts:
 - Preparation event (online)
