@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="ACAM 2025 Training School" width="500"/>
+  <img src="Sponsers_Logo.png" alt="ACAM 2025 Training School" width="500"/>
 </p>
 
 # 6th Atmospheric Composition And The Asian Monsoon (ACAM) Training School 
