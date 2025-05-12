@@ -6,13 +6,12 @@
 **Exploring Atmospheric Composition and Remote Sensing**  
 *Bali, Indonesia | 9-10 June 2025*
 
----
-
 
 <p align="center">
   <img src="images/Sponsers_Logo.png" alt="ACAM Training School Sponsors Logo" width="500"/>
 </p>
 
+---
 
 ## Table of Contents
 1. [About the Event](#About-the-Event)
