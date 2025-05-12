@@ -9,7 +9,7 @@
 ---
 
 
-![ACAM Logo](https://example.com/acam_logo.png) <!-- Replace with the actual logo URL -->
+![ACAM Training School Sponsers Logo](Sponsers_Logo.png) <!-- Replace with the actual logo URL -->
 
 
 ## Table of Contents
