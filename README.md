@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="Sponsers_Logo.png" alt="ACAM Training School Sponsors Logo" width="500"/>
+  <img src="images/Sponsers_Logo.png" alt="ACAM Training School Sponsors Logo" width="500"/>
 </p>
 
 
