@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" alt="ACAM 2025 Training School" width="500"/>
-</p>
+</p> -->
 
 # 6th Atmospheric Composition And The Asian Monsoon (ACAM) Training School 
 **Exploring Atmospheric Composition and Remote Sensing**  
