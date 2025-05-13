@@ -15,7 +15,7 @@
 
 ## Table of Contents
 1. [About the Event](#About-the-Event)
-2. [Program Schedule](#program-schedule)
+2. [Program of the Training School](#Program-of-the-Training-School)
 3. [Speakers and Materials](#speakers-and-materials)
 4. [Shared Resources](#shared-resources)
 5. [Setup Instructions](#setup-instructions)
@@ -49,25 +49,10 @@ The training aims to enable participants to be aware of satellite- and model-bas
   <img src="images/Day-2_Program.png" alt="Day-2 Training School Program" width="850"/>
 </p>
 
-### Monday, 9 June 2025
-
-| Time | Speaker | Topic | Materials |
-| --- | --- | --- | --- |
-| 09:00 - 09:15 | Dr. Ritesh Gautam, Dr. Puji Lestari, Dr. Piyushkumar Patel | Welcome & Logistics | - |
-| 09:15 - 10:00 | Dr. James Crawford | Overview of ACAM & ASIA-AQ | - |
-| 10:00 - 11:00 | Dr. Piyushkumar Patel         | Aerosol-Cloud Satellite Remote Sensing            | [Repository](https://github.com/PiyushPatel/Aerosol_Cloud_Remote_Sensing) |
-| 11:30 - 12:30 | Dr. Piyushkumar Patel         | SPEXone Satellite Aerosol Data Analysis           | [Repository](https://github.com/PiyushPatel/SPEXone_Analysis)            |
-| 14:00 - 16:00 | Dr. Cathy Clerbaux            | Satellite Observations of Atmospheric Composition | [Repository](https://github.com/CathyClerbaux/IASI_Satellite_Data)       |
-| 16:30 - 17:30 | All Instructors               | Introduction of Project Work                      | [Guidelines](https://github.com/PiyushPatel/ACAM_2025_Project_Work)      |
-
-
-
----
 
 The training school consists of two parts:
 - Preparation event (online)
 - Training school (on-site)
-
 
 
 ### Preparation Event (Online)
@@ -119,11 +104,6 @@ Training materials will be made available to participants through this GitHub re
 
 - [Link to training school material repository](#)
 - [Additional resources](#)
-
-## Organizers and Sponsors
-
-The training school is organized and sponsored by:
-- IGAC
 
 
 ## Contact
