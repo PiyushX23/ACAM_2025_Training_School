@@ -86,6 +86,8 @@ Project work is a component where participants can apply what they learned durin
 
 **NOTE**: Participants will require a laptop and charger for the on-site part of the training school.
 
+---
+
 ## Training Materials
 
 Training materials will be made available to participants through this GitHub repository. Links to specific sessions and materials will be added as they become available.
@@ -104,7 +106,7 @@ Training materials will be made available to participants through this GitHub re
 - [Link to training school material repository](#)
 - [Additional resources](#)
 
-NOTE: You will require a laptop and charger (+ if needed, an adapter for Bangladesh electrical outlets) for the on-site part of the training school.
+---
 
 ## Contact
 
