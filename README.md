@@ -2,13 +2,13 @@
   <img src="banner.png" alt="ACAM 2025 Training School" width="500"/>
 </p> -->
 
-# 6th Atmospheric Composition And The Asian Monsoon (ACAM) Training School 
+<!-- # 6th Atmospheric Composition And The Asian Monsoon (ACAM) Training School 
 **Exploring Atmospheric Composition and Remote Sensing**  
-*Bali, Indonesia | 9-10 June 2025*
+*Bali, Indonesia | 9-10 June 2025* -->
 
 
 <p align="center">
-  <img src="images/Sponsers_Logo.png" alt="ACAM Training School Sponsors Logo" width="500"/>
+  <img src="images/Sponsers_Logo.png" alt="ACAM Training School Sponsors Logo" width="1000"/>
 </p>
 
 ---
