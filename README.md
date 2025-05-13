@@ -14,12 +14,10 @@
 ---
 
 ## Table of Contents
-1. [About the Event](#About-the-Event)
-2. [Program of the Training School](#Program-of-the-Training-School)
-3. [Speakers and Materials](#speakers-and-materials)
-4. [Shared Resources](#shared-resources)
-5. [Setup Instructions](#setup-instructions)
-6. [Contact and Support](#contact-and-support)
+1. [About the Event](#about-the-event)
+2. [Program of the Training School](#program-of-the-training-school)
+3. [Training Materials](#training-materials)
+4. [Contact](#contact)
 
 ---
 
@@ -94,17 +92,19 @@ Training materials will be made available to participants through this GitHub re
 
 ### Speaker Materials
 
-| Speaker | Topic | Materials |
-|---------|-------|-----------|
-| TBD | TBD | [Link to materials](#) |
-| TBD | TBD | [Link to materials](#) |
-| TBD | TBD | [Link to materials](#) |
+| Speaker | Topic | Materials | Code/Scripts |
+|---------|-------|-----------|-------------|
+| Dr. Piyushkumar Patel | Aerosol-Cloud Remote Sensing | [Lecture Materials](https://github.com/PiyushPatel/ACAM_2025_Materials/aerosol) | [Scripts & Data](https://github.com/PiyushPatel/ACAM_2025_Scripts/aerosol) |
+| Dr. Cathy Clerbaux | Atmospheric Composition | [Lecture Materials](https://github.com/CathyClerbaux/IASI_Materials) | [Scripts & Data](https://github.com/CathyClerbaux/IASI_Scripts) |
+| Dr. Naveen Chandra | Methane Emission Modeling | [Tutorial Slides](https://github.com/NaveenChandra/Methane_Materials) | [Scripts & Data](https://github.com/NaveenChandra/Methane_Analysis) |
+| Dr. Jonathan Wright | Asian Monsoon Dynamics | [Lecture Notes](https://github.com/JonathanWright/Monsoon_Materials) | [Scripts & Data](https://github.com/JonathanWright/Composition_Circulation) |
 
 ### Additional Resources
 
 - [Link to training school material repository](#)
 - [Additional resources](#)
 
+NOTE: You will require a laptop and charger (+ if needed, an adapter for Bangladesh electrical outlets) for the on-site part of the training school.
 
 ## Contact
 
