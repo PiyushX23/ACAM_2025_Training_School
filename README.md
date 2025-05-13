@@ -44,6 +44,11 @@ The training aims to enable participants to be aware of satellite- and model-bas
 
 ## Program of the Training School
 
+<p align="center">
+  <img src="images/Day-1_Program.png" alt="Day-1 Training School Program" width="500"/>
+  <img src="images/Day-2_Program.png" alt="Day-2 Training School Program" width="500"/>
+</p>
+
 ### Monday, 9 June 2025
 
 | Time | Speaker | Topic | Materials |
