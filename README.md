@@ -124,8 +124,7 @@ Training materials will be made available to participants through this GitHub re
 
 The training school is organized and sponsored by:
 - IGAC
-- SPARC
-- [Additional sponsors to be added]
+
 
 ## Contact
 
