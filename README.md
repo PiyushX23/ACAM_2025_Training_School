@@ -60,14 +60,7 @@ The training aims to enable participants to be aware of satellite- and model-bas
 | 14:00 - 16:00 | Dr. Cathy Clerbaux            | Satellite Observations of Atmospheric Composition | [Repository](https://github.com/CathyClerbaux/IASI_Satellite_Data)       |
 | 16:30 - 17:30 | All Instructors               | Introduction of Project Work                      | [Guidelines](https://github.com/PiyushPatel/ACAM_2025_Project_Work)      |
 
-### Tuesday, 10 June 2025
 
-| Time | Speaker | Topic | Materials |
-| --- | --- | --- | --- |
-| 09:00 - 10:45 | Dr. Naveen Chandra | Inverse Modeling for Methane Emission Quantification | [Repository](https://github.com/NaveenChandra/Methane_Analysis) |
-| 11:00 - 12:45 | Dr. Jonathan Wright | Composition-Circulation Coupling in the Asian Monsoon | [Repository](https://github.com/JonathanWright/Composition_Circulation) |
-| 14:00 - 16:00 | All Instructors | Project Work | [Datasets](https://github.com/PiyushPatel/ACAM_2025_Project_Work/tree/main/datasets) |
-| 16:15 - 17:30 | All Presenters | Presentations of Projects | - |
 
 ---
 
