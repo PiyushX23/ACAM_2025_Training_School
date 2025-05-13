@@ -1,0 +1,25 @@
+# Ignore the repository update script
+update-repo.sh
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Ignore temporary files
+*.swp
+*.swo
+*~
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+
+# Ignore logs
+*.log
+
+# Ignore local environment files
+.env
+.env.local
