@@ -96,10 +96,10 @@ Training materials will be made available to participants through this GitHub re
 
 | Speaker | Topic | Materials | Code/Scripts |
 |---------|-------|-----------|-------------|
-| Dr. Piyushkumar Patel | Aerosol-Cloud Remote Sensing | [Lecture Materials](https://github.com/PiyushPatel/ACAM_2025_Materials/aerosol) | [Scripts & Data](https://github.com/PiyushPatel/ACAM_2025_Scripts/aerosol) |
-| Dr. Cathy Clerbaux | Atmospheric Composition | [Lecture Materials](https://github.com/CathyClerbaux/IASI_Materials) | [Scripts & Data](https://github.com/CathyClerbaux/IASI_Scripts) |
-| Dr. Naveen Chandra | Methane Emission Modeling | [Tutorial Slides](https://github.com/NaveenChandra/Methane_Materials) | [Scripts & Data](https://github.com/NaveenChandra/Methane_Analysis) |
-| Dr. Jonathan Wright | Asian Monsoon Dynamics | [Lecture Notes](https://github.com/JonathanWright/Monsoon_Materials) | [Scripts & Data](https://github.com/JonathanWright/Composition_Circulation) |
+| Dr. Piyushkumar Patel | Aerosol-Cloud Remote Sensing | [Materials/Note](https://github.com/PiyushPatel/ACAM_2025_Materials/aerosol) | [Scripts & Data](https://github.com/PiyushPatel/ACAM_2025_Scripts/aerosol) |
+| Dr. Cathy Clerbaux | Atmospheric Composition | [Materials/Note](https://github.com/CathyClerbaux/IASI_Materials) | [Scripts & Data](https://github.com/CathyClerbaux/IASI_Scripts) |
+| Dr. Naveen Chandra | Methane Emission Modeling | [Materials/Note](https://github.com/NaveenChandra/Methane_Materials) | [Scripts & Data](https://github.com/NaveenChandra/Methane_Analysis) |
+| Dr. Jonathan Wright | Asian Monsoon Dynamics | [Materials/Note](https://github.com/JonathanWright/Monsoon_Materials) | [Scripts & Data](https://github.com/JonathanWright/Composition_Circulation) |
 
 ### Additional Resources
 
