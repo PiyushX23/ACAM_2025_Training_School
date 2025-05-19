@@ -84,7 +84,7 @@ There will be practical data discovery sessions where participants will get a pr
 
 Project work is a component where participants can apply what they learned during the scientific lectures and the practical data discovery sessions. Participants can come with an idea for the project to the training school or decide on a project while they are there. They can work alone or together as a team. Teams will be formed according to similar interests and project ideas. Participants shall present the outcomes of their projects at the end of the training school.
 
-**NOTE**: Participants will require a laptop and charger for the on-site part of the training school.
+**NOTE**: **Participants will require a laptop and charger (+ if needed, an adapter for Indonesia electrical outlets) for the on-site part of the training school.**
 
 ---
 
