@@ -28,14 +28,14 @@ Welcome to the 6th ACAM Training School! Building on the success of previous tra
 - **Where**: Bali, Indonesia 
 - **Organizers**: Dr. Piyushkumar Patel (SRON, Netherlands), Dr. Ritesh Gautam (EDF, USA), Dr. Puji Lestari (ITB, Indonesia)
 - **Intructors**: Dr. Cathy Clerbaux (CNES, France), Dr. Jonathan Wright (Tsinghua University, China), Dr. Naveen Chandra (JAMSTEC, Japan), Dr. Piyushkumar Patel (SRON, Netherlands)
-- **Focus**: Aerosol, cloud, and methane analysis using satellite data, with practical exercises and project work. 
+- **Focus**: Atmospheric composition analysis using satellite data and models, with practical exercises and project work. 
 <!-- - **Led by**: Dr. Ritesh Gautam, Dr. Piyushkumar Patel   -->
 
 ### Learning Objectives
 
 The training aims to enable participants to be aware of satellite- and model-based products, with the following learning objectives:
-- To learn and understand different satellite observation and modeling principles for air quality research
-- To find and use satellite- and model-based data products for air quality research
+- To learn and understand different satellite observation and modeling principles for atmospheric compostion and air quality research
+- To find and use satellite- and model-based data products for their research
 - To use standard Python packages to handle, process, and visualize the data
 - To identify advantages and limitations of each data product introduced
 
@@ -58,7 +58,7 @@ The training school consists of two parts:
 
 This online event will take place before the on-site training school. Lecturers will introduce participants to the training school program as well as the data and tools that will be used during the on-site part. Participants will have a chance to familiarize themselves with the training platform and to register for different data access services.
 
-It is recommended to follow along with the laptop you plan to bring to the on-site school.
+The reuired turorial or documents will be shared here.
 
 **NOTE**: Participation in the preparation event is strongly recommended.
 
@@ -72,10 +72,9 @@ The on-site training school will have a mixture of:
 #### Scientific Lectures
 
 The scientific lectures will be given by experts on a range of topics:
-- Principles of observing air quality from satellites
-- Principles of aerosols from satellites
+- Principles of observing various atmospheric compostions from satellites
 - Principles of modeling and introduction to global models
-- Principles of data assimilation and reanalysis data
+- Principles of reanalysis data
 
 #### Practical Data Discovery
 
@@ -112,7 +111,7 @@ Training materials will be made available to participants through this GitHub re
 ## Contact
 
 For any questions regarding the training school, please contact:
-- [Contact information to be added]
+- Dr. Piyushkumar Patel ([p.patel@sron.nl](mailto:p.patel@sron.nl) / [piyushether@gmail.com](mailto:piyushether@gmail.com))
 
 
 
