@@ -26,7 +26,8 @@ Welcome to the 6th ACAM Training School! Building on the success of previous tra
 
 - **When**: 9-10 June 2025  
 - **Where**: Bali, Indonesia 
-- **Organizers**: Dr. Ritesh Gautam (EDF, USA), Dr. Puji Lestari (ITB, Indonesia), Dr. Piyushkumar Patel (SRON, Netherlands)
+- **Organizers**: Dr. Piyushkumar Patel (SRON, Netherlands), Dr. Ritesh Gautam (EDF, USA), Dr. Puji Lestari (ITB, Indonesia)
+- **Intructors**: Dr. Cathy Clerbaux (CNES, France), Dr. Jonathan Wright (Tsinghua University, China), Dr. Naveen Chandra (JAMSTEC, Japan), Dr. Piyushkumar Patel (SRON, Netherlands)
 - **Focus**: Aerosol, cloud, and methane analysis using satellite data, with practical exercises and project work. 
 <!-- - **Led by**: Dr. Ritesh Gautam, Dr. Piyushkumar Patel   -->
 
