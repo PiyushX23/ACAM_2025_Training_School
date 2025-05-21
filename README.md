@@ -27,7 +27,7 @@ Welcome to the 6th ACAM Training School! Building on the success of previous tra
 - **When**: 9-10 June 2025  
 - **Where**: Bali, Indonesia 
 - **Organizers**: Dr. Piyushkumar Patel (SRON, Netherlands), Dr. Ritesh Gautam (EDF, USA), Dr. Puji Lestari (ITB, Indonesia)
-- **Intructors**: Dr. Cathy Clerbaux (CNES, France), Dr. Jonathan Wright (Tsinghua University, China), Dr. Naveen Chandra (JAMSTEC, Japan), Dr. Piyushkumar Patel (SRON, Netherlands)
+- **Intructors**: Dr. Cathy Clerbaux (CNES, France), Dr. Jonathon Wright (Tsinghua University, China), Dr. Naveen Chandra (JAMSTEC, Japan), Dr. Piyushkumar Patel (SRON, Netherlands)
 - **Focus**: Atmospheric composition analysis using satellite data and models, with practical exercises and project work. 
 <!-- - **Led by**: Dr. Ritesh Gautam, Dr. Piyushkumar Patel   -->
 
@@ -99,7 +99,7 @@ Training materials will be made available to participants through this GitHub re
 | Dr. Piyushkumar Patel | Aerosol-Cloud Remote Sensing | [Materials/Note](https://github.com/PiyushPatel/ACAM_2025_Materials/aerosol) | [Scripts & Data](https://github.com/PiyushPatel/ACAM_2025_Scripts/aerosol) |
 | Dr. Cathy Clerbaux | Atmospheric Composition | [Materials/Note](https://github.com/CathyClerbaux/IASI_Materials) | [Scripts & Data](https://github.com/CathyClerbaux/IASI_Scripts) |
 | Dr. Naveen Chandra | Methane Emission Modeling | [Materials/Note](https://github.com/NaveenChandra/Methane_Materials) | [Scripts & Data](https://github.com/NaveenChandra/Methane_Analysis) |
-| Dr. Jonathan Wright | Asian Monsoon Dynamics | [Materials/Note](https://github.com/JonathanWright/Monsoon_Materials) | [Scripts & Data](https://github.com/JonathanWright/Composition_Circulation) |
+| Dr. Jonathon Wright | Asian Monsoon Dynamics | [Materials/Note](https://github.com/JonathonWright/Monsoon_Materials) | [Scripts & Data](https://github.com/JonathonWright/Composition_Circulation) |
 
 ### Additional Resources
 
@@ -111,8 +111,8 @@ Training materials will be made available to participants through this GitHub re
 ## Contributors
 
 This repository is maintained by:
-- Dr. Piyushkumar Patel ([p.patel@sron.nl](mailto:p.patel@sron.nl)) / [piyushether@gmail.com](mailto:piyushether@gmail.com))
-- Jonathan Wright ([jonathan.wright@tsinghua.edu.cn](mailto:jonathan.wright@tsinghua.edu.cn))
+- Dr. Piyushkumar Patel [piyushether@gmail.com](mailto:piyushether@gmail.com))
+- Jonathon Wright ([jonathonswright@protonmail.com](mailto:jonathonswright@protonmail.com))
 
 ## Contact
 
