@@ -108,6 +108,12 @@ Training materials will be made available to participants through this GitHub re
 
 ---
 
+## Contributors
+
+This repository is maintained by:
+- Dr. Piyushkumar Patel ([p.patel@sron.nl](mailto:p.patel@sron.nl)) / [piyushether@gmail.com](mailto:piyushether@gmail.com))
+- Jonathan Wright ([jonathan.wright@tsinghua.edu.cn](mailto:jonathan.wright@tsinghua.edu.cn))
+
 ## Contact
 
 For any questions regarding the training school, please contact:
