@@ -27,7 +27,7 @@ Welcome to the 6th ACAM Training School! Building on the success of previous tra
 - **When**: 9-10 June 2025  
 - **Where**: Bali, Indonesia 
 - **Organizers**: Dr. Piyushkumar Patel (SRON, Netherlands), Dr. Ritesh Gautam (EDF, USA), Dr. Puji Lestari (ITB, Indonesia)
-- **Intructors**: Dr. Cathy Clerbaux (CNES, France), Dr. Jonathon Wright (Tsinghua University, China), Dr. Naveen Chandra (JAMSTEC, Japan), Dr. Piyushkumar Patel (SRON, Netherlands)
+- **Speakers**: Dr. James Crawford (NASA Langley, USA), Dr. Cathy Clerbaux (CNES, France), Dr. Jonathon Wright (Tsinghua University, China), Dr. Naveen Chandra (JAMSTEC, Japan), Dr. Piyushkumar Patel (SRON, Netherlands)
 - **Focus**: Atmospheric composition analysis using satellite data and models, with practical exercises and project work. 
 <!-- - **Led by**: Dr. Ritesh Gautam, Dr. Piyushkumar Patel   -->
 
