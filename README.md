@@ -108,11 +108,11 @@ Training materials will be made available to participants through this GitHub re
 
 ---
 
-## Contributors
+<!-- ## Contributors
 
 This repository is maintained by:
 - Dr. Piyushkumar Patel ([piyushether@gmail.com](mailto:piyushether@gmail.com))
-- Dr. Jonathon Wright ([jonathonswright@protonmail.com](mailto:jonathonswright@protonmail.com))
+- Dr. Jonathon Wright ([jonathonswright@protonmail.com](mailto:jonathonswright@protonmail.com)) -->
 
 ## Contact
 
