@@ -101,10 +101,11 @@ Training materials will be made available to participants through this GitHub re
 | Dr. Naveen Chandra | Methane Emission Modeling | [Materials/Note](https://github.com/NaveenChandra/Methane_Materials) | [Scripts & Data](https://github.com/NaveenChandra/Methane_Analysis) |
 | Dr. Jonathon Wright | Asian Monsoon Dynamics | [Note](https://github.com/jonathonwright/ACAMTrainingSchool2025/blob/main/README.md) | [Scripts](https://github.com/jonathonwright/ACAMTrainingSchool2025) |
 
-### Additional Resources
+### Resources
 
-- [Link to training school material repository](#)
-- [Additional resources](#)
+- [ANACOND Installation](https://www.anaconda.com/docs/getting-started/anaconda/install)
+- [JYUPTERLAB Installation](https://jupyter.org/install)
+- [GIT Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ---
 
