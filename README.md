@@ -103,7 +103,7 @@ Training materials will be made available to participants through this GitHub re
 
 ### Resources
 
-- [ANACOND Installation](https://www.anaconda.com/docs/getting-started/anaconda/install)
+- [PYTHON Installation](https://www.python.org/downloads/)
 - [JYUPTERLAB Installation](https://jupyter.org/install)
 - [GIT Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
