@@ -103,9 +103,9 @@ Training materials will be made available to participants through this GitHub re
 
 ### Resources
 
-- [PYTHON Installation](https://www.python.org/downloads/)
-- [JYUPTERLAB Installation](https://jupyter.org/install)
-- [GIT Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="20"/> [Python Installation](https://www.python.org/downloads/)
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="JupyterLab" width="20"/> [JupyterLab Installation](https://jupyter.org/install)
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="20"/> [Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ---
 
