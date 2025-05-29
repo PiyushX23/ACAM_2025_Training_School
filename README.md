@@ -84,7 +84,23 @@ There will be practical data discovery sessions where participants will get a pr
 
 Project work is a component where participants can apply what they learned during the scientific lectures and the practical data discovery sessions. Participants can come with an idea for the project to the training school or decide on a project while they are there. They can work alone or together as a team. Teams will be formed according to similar interests and project ideas. Participants shall present the outcomes of their projects at the end of the training school.
 
-**NOTE**: **Participants will require a laptop and charger (+ if needed, an adapter for Indonesia electrical outlets) for the on-site part of the training school.**
+**NOTE**: 
+- **Participants will require a laptop and charger (+ if needed, an adapter for Indonesia electrical outlets) for the on-site part of the training school.**
+
+### Preparation Before the Training
+
+To ensure a smooth experience during the training school, please complete the following setup on your laptop before arriving:
+
+1. **Software Installation**:
+   - Install Python 3.10 or higher
+   - Install Git version control system
+   - Install JupyterLab and required Python libraries
+   - Detailed installation instructions: [Project Work Setup Guide](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/blob/main/ProjectWork_Setup.md)
+
+2. **Test Your Setup**:
+   - Verify all software is working correctly
+   - Test running JupyterLab locally
+   - Clone the training repository to ensure Git is working
 
 ---
 
