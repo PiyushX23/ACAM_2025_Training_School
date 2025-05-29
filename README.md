@@ -92,9 +92,9 @@ Project work is a component where participants can apply what they learned durin
 To ensure a smooth experience during the training school, please complete the following setup on your laptop before arriving:
 
 1. **Software Installation**:
-   - Install Python 3.10 or higher
+   - Install Miniforge (recommended) or Anaconda/Miniconda
    - Install Git version control system
-   - Install JupyterLab and required Python libraries
+   - Create a conda environment with Python 3.10 and required scientific libraries
    - Detailed installation instructions: [Project Work Setup Guide](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/blob/main/ProjectWork_Setup.md)
 
 2. **Test Your Setup**:
@@ -119,7 +119,7 @@ Training materials will be made available to participants through this GitHub re
 
 ### Resources
 
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="20"/> [Python Installation](https://www.python.org/downloads/)
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="20"/> [Miniforge Installation](https://conda-forge.org/download/)
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="JupyterLab" width="20"/> [JupyterLab Installation](https://jupyter.org/install)
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="20"/> [Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
