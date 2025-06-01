@@ -102,6 +102,11 @@ To ensure a smooth experience during the training school, please complete the fo
    - Test running JupyterLab locally
    - Clone the training repository to ensure Git is working
 
+3. **Earthdata Account Setup**:
+   - Create an account on [NASA Earthdata Login](https://urs.earthdata.nasa.gov/)
+   - This account is required for accessing satellite data during the training
+   - For more information, see [Earthdata Documentation](https://urs.earthdata.nasa.gov/documentation/what_do_i_need_to_know)
+
 ---
 
 ## Training Materials
