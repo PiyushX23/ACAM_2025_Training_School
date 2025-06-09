@@ -117,7 +117,7 @@ Training materials will be made available to participants through this GitHub re
 
 | Speaker | Topic | Tutorials | Scripts |
 |---------|-------|-----------|-------------|
-| Dr. Piyushkumar Patel | Aerosol-Cloud Remote Sensing | [Note](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/blob/main/README.md) | [Scripts & Data](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/tree/main/Piyush) |
+| Dr. Piyushkumar Patel | Aerosol-Cloud Remote Sensing | [Note](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/blob/main/README.md) | [Scripts & Data](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/tree/main/Piyush/scripts) |
 | Dr. Cathy Clerbaux | Atmospheric Composition | [Note](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/tree/main/Cathy/Tutorials) | [Scripts](https://github.com/PiyushX23/ACAM_2025_Training_School_Material/tree/main/Cathy/Scripts) |
 | Dr. Naveen Chandra | Methane Emission Modeling | [Materials/Note](https://github.com/NaveenChandra/Methane_Materials) | [Scripts & Data](https://github.com/NaveenChandra/Methane_Analysis) |
 | Dr. Jonathon Wright | Asian Monsoon Dynamics | [Note](https://github.com/jonathonwright/ACAMTrainingSchool2025/blob/main/README.md) | [Scripts](https://github.com/jonathonwright/ACAMTrainingSchool2025) |
