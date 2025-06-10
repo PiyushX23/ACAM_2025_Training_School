@@ -131,16 +131,23 @@ Training materials will be made available to participants through this GitHub re
 
 ---
 
+
 <!-- ## Contributors
 
 This repository is maintained by:
 - Dr. Piyushkumar Patel ([piyushether@gmail.com](mailto:piyushether@gmail.com))
 - Dr. Jonathon Wright ([jonathonswright@protonmail.com](mailto:jonathonswright@protonmail.com)) -->
 
+## Interactive Sessions
+
+Join our interactive sessions using Slido:
+
+- **Feedback 1**: [Slido Link](https://app.sli.do/event/2YzfPSekFLBHFAwfNk34Mm)
+- **Feedback 2**: [Slido Link](https://app.sli.do/event/m3g96hCVYqMGPsw5qehB43)
+- **Feedback Word Cloud**: [Slido Link](https://app.sli.do/event/afgJzzN6vTLgMwYPZaTH9z)
+
 ## Contact
 
 For any questions regarding the training school, please contact:
 - Dr. Piyushkumar Patel ([p.patel@sron.nl](mailto:p.patel@sron.nl) / [piyushether@gmail.com](mailto:piyushether@gmail.com))
-
-
 
