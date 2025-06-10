@@ -108,7 +108,8 @@ To ensure a smooth experience during the training school, please complete the fo
    - For more information, see [Earthdata Documentation](https://urs.earthdata.nasa.gov/documentation/what_do_i_need_to_know)
 
 4. **SPEXone Data**:
-   - Temporary link to download the SPEXone data: [SEPXone](https://public.spider.surfsara.nl/project/spexone/RemoTAP-SPEXone/)
+   - Create an account on Temporary link to download the SPEXone data: [SEPXone](https://public.spider.surfsara.nl/project/spexone/RemoTAP-SPEXone/)
+   
 ---
 
 ## Training Materials
